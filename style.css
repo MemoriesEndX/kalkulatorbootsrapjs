@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.calculator {
+    width: 300px;
+}
+
+input#display {
+    height: 60px;
+    font-size: 24px;
+}
+
+button {
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+}
+
+.btn-light {
+    background-color: #f8f9fa;
+}
+
+.my-custom-class{
+    box-shadow: 21px 32px 5px 0px rgba(255,255,255,0.75);
+    -webkit-box-shadow: 21px 32px 5px 0px rgba(255,255,255,0.75);
+    -moz-box-shadow: 21px 32px 5px 0px rgba(255,255,255,0.75);
+}
